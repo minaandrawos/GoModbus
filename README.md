@@ -14,6 +14,7 @@ Code structure:
 
  Notes:
   1. CRC not supported
+  2. If enough people find that interesting, I would like to evolve this to be a Go Modbus API
   2. Code can be tested with Modbus simulators
   3. I may write a tutorial in the future covering the design details when I get a chance.
   4. Intrested for more material? check my website at www.minaandrawos.com
