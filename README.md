@@ -3,7 +3,7 @@ GoModbus
 
 A TCP Modbus client in Go
 
-This is a simple TCP Modbus client written in Go for testing and protyping purposes. The code is in an alpha state and is provided as-is. Please keep my name in the files as the author if reused.
+This is an expermintal TCP Modbus client written in Go for testing and protyping purposes. The code is in an alpha state, still needs some work and is provided as-is. Please keep my name in the files as the author if reused.
 
 What is Modbus?
 Modbus is a popular industrial device protocol used to communicate with numerous devices worldwide. A good primer on the protocol can be found at: http://www.simplymodbus.ca/FAQ.htm#Modbus 
